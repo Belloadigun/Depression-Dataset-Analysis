@@ -7,4 +7,6 @@ In this project,
 # Data Source
 This data was sourced from Kaggle.com
 # Data Cleaning Process
-The data was comprehensively evaluated to identify potential data quality issues and structural anomalies. However, no issues were found in the dataset. 
+The data was comprehensively evaluated to identify potential data quality issues and structural anomalies. However, no issues were found in the dataset. The columns "Category" and "Age Cat" were added to the original columns present in the dataset.
+![BI project 1](https://github.com/user-attachments/assets/607e8750-defd-46af-9c24-f0bddcb5764a) 
+# Findings
