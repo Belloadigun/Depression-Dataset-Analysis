@@ -4,7 +4,7 @@ A descriptive analysis of depressed individuals in a population.
 
 # Introduction
 The depression dataset contains data aimed at analyzing, understanding and predicting depression levels in a population. It include features such as demographic information (age, gender), lifestyle habits (sleep duration), mental health history, and responses to standardized depression scales. 
-In this project, 
+In this project, I analyze and visualize this dataset to bring fore some of the subtle relationship that exist between the variables in the data. 
 
 # Data Source
 This data was sourced from Kaggle.com
