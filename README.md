@@ -18,7 +18,10 @@ The data was comprehensively evaluated to identify potential data quality issues
 ![Depression Dashboard](https://github.com/user-attachments/assets/8b53d615-488c-45b5-89cf-e476b9274c9e)
 
 1. Students with unhealthy feeding habit had the highest count of depressed individual.
-2. The least count of depressed students were those that studied[/worked for 4-6 hours.
+2. The least count of depressed students were those that studied/worked for 4-6 hours.
 3. The highest count of depressed students were observed to be from the city of Kalyan.
 4. The highest count of depressed students were observed to be in the age range of 20-29.
 
+# Recommendations
+1. Students should be sensitized and encouraged to inculcate healthy feeding habit.
+2. Further analysis should be done to highlight the possible causes of high rate of depression among students of age range 20-29. 
